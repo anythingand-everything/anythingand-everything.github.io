@@ -1,7 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
 .home-container {
   width: 100%;
   height: auto;
